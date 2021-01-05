@@ -9,3 +9,4 @@ Pour lancer et compiler l'application, ouvrir le  Projet sur Android Studio et c
 ### Équipe
 
 Thierry Bitar
+

@@ -1,0 +1,2 @@
+com/openclassrooms/entrevoisins/service/NeighbourServiceTest.java
+ com.openclassrooms.entrevoisins.service.NeighbourServiceTest

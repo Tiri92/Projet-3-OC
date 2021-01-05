@@ -1,0 +1,8 @@
+com/openclassrooms/entrevoisins/utils/DeleteViewAction.java
+ com.openclassrooms.entrevoisins.utils.DeleteViewAction
+com/openclassrooms/entrevoisins/utils/RecyclerViewItemCountAssertion.java
+ com.openclassrooms.entrevoisins.utils.RecyclerViewItemCountAssertion
+com/openclassrooms/entrevoisins/test/BuildConfig.java
+ com.openclassrooms.entrevoisins.test.BuildConfig
+com/openclassrooms/entrevoisins/neighbour_list/NeighboursListTest.java
+ com.openclassrooms.entrevoisins.neighbour_list.NeighboursListTest

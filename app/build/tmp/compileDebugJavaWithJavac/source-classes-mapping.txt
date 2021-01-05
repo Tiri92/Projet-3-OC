@@ -1,0 +1,36 @@
+com/openclassrooms/entrevoisins/ui/neighbour_list/ListNeighbourActivity.java
+ com.openclassrooms.entrevoisins.ui.neighbour_list.ListNeighbourActivity
+com/openclassrooms/entrevoisins/ui/neighbour_list/NeighbourFragment.java
+ com.openclassrooms.entrevoisins.ui.neighbour_list.NeighbourFragment
+com/openclassrooms/entrevoisins/service/DummyNeighbourApiService.java
+ com.openclassrooms.entrevoisins.service.DummyNeighbourApiService
+com/openclassrooms/entrevoisins/ui/neighbour_list/AddNeighbourActivity.java
+ com.openclassrooms.entrevoisins.ui.neighbour_list.AddNeighbourActivity
+ com.openclassrooms.entrevoisins.ui.neighbour_list.AddNeighbourActivity$1
+com/openclassrooms/entrevoisins/ui/neighbour_list/NeighbourDetailActivity.java
+ com.openclassrooms.entrevoisins.ui.neighbour_list.NeighbourDetailActivity
+ com.openclassrooms.entrevoisins.ui.neighbour_list.NeighbourDetailActivity$1
+com/openclassrooms/entrevoisins/BuildConfig.java
+ com.openclassrooms.entrevoisins.BuildConfig
+com/openclassrooms/entrevoisins/ui/neighbour_list/FavoriteNeighbourFragment.java
+ com.openclassrooms.entrevoisins.ui.neighbour_list.FavoriteNeighbourFragment
+com/openclassrooms/entrevoisins/ui/neighbour_list/MyNeighbourRecyclerViewAdapter.java
+ com.openclassrooms.entrevoisins.ui.neighbour_list.MyNeighbourRecyclerViewAdapter
+ com.openclassrooms.entrevoisins.ui.neighbour_list.MyNeighbourRecyclerViewAdapter$1
+ com.openclassrooms.entrevoisins.ui.neighbour_list.MyNeighbourRecyclerViewAdapter$2
+ com.openclassrooms.entrevoisins.ui.neighbour_list.MyNeighbourRecyclerViewAdapter$ViewHolder
+com/openclassrooms/entrevoisins/model/Neighbour.java
+ com.openclassrooms.entrevoisins.model.Neighbour
+com/openclassrooms/entrevoisins/events/DeleteNeighbourEvent.java
+ com.openclassrooms.entrevoisins.events.DeleteNeighbourEvent
+com/openclassrooms/entrevoisins/events/ShowDetailNeighbourEvent.java
+ com.openclassrooms.entrevoisins.events.ShowDetailNeighbourEvent
+com/openclassrooms/entrevoisins/service/DummyNeighbourGenerator.java
+ com.openclassrooms.entrevoisins.service.DummyNeighbourGenerator
+com/openclassrooms/entrevoisins/service/NeighbourApiService.java
+ com.openclassrooms.entrevoisins.service.NeighbourApiService
+com/openclassrooms/entrevoisins/ui/neighbour_list/ListNeighbourPagerAdapter.java
+ com.openclassrooms.entrevoisins.ui.neighbour_list.ListNeighbourPagerAdapter
+ com.openclassrooms.entrevoisins.ui.neighbour_list.ListNeighbourPagerAdapter$neighbourPage
+com/openclassrooms/entrevoisins/di/DI.java
+ com.openclassrooms.entrevoisins.di.DI
