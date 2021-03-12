@@ -8,9 +8,4 @@ Pour lancer et compiler l'application, ouvrir le  Projet sur Android Studio et c
 
 ### Équipe
 
-<<<<<<< HEAD
 Thierry Bitar
-
-=======
-Thierry Bitar
->>>>>>> a30d498 (first real source code commit)
