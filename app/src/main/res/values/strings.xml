@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Entrevoisins</string>
+    <string name="tab_neighbour_title">My neighbours</string>
+    <string name="tab_favorites_title">Favorites</string>
+    <string name="activity_new_neighbour">New neighbour</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="neighbour_detail_activity_about_me">A propos de moi</string>
+    <string name="button_for_come_back">ImageButtonBack</string>
+    <string name="button_for_add_favoris">ButtonAddFavoris</string>
+    <string name="toast_removed_from_favorite">Retiré des favoris</string>
+    <string name="toast_added_to_favorite">Ajouté aux favoris</string>
+</resources>
